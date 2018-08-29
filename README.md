@@ -16,4 +16,4 @@ Now, assuming we found out the IP address and the port that mapped to port 80 on
 ![hello_world](./hello_world.png)
 
 
-Reference: ![Docker & Kubernetes](http://bogotobogo.com/DevOps/Docker/Docker_Kubernetes.php)
+Reference: [Docker & Kubernetes](http://bogotobogo.com/DevOps/Docker/Docker_Kubernetes.php)
